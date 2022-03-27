@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jiamu Huang
+title: ""
 ---
 
 I am Jiamu.
