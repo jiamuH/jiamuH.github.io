@@ -1,6 +1,6 @@
 title: "Jiamu Huang（黄嘉沐）"
 author: "Jiamu Huang"
-description: "University of California, Santa Cruz"
+description: "University of California, Santa Barbara"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
-  - {file: "cv.html", title: "CV"}
+  - {file: "Jiamu_CV.pdf", title: "CV"}
 # - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
