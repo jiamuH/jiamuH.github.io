@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 # - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jhuan192@ucsc.edu"}
+  - {title: jiamu_huang@ucsb.edu, icon: envelope, url: "mailto:jiamu_huang@ucsb.edu"}
   - {title: Github, icon: github, url: "https://github.com/jiamuH"}
 # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
