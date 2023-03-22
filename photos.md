@@ -3,8 +3,5 @@ layout: default
 title: "Photography"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Photography" %}
-{% endif %}
+
+![MilkyWay](https://user-images.githubusercontent.com/52144339/226821883-1886e2ca-ecb0-4be8-bf29-734fa5de94ca.jpg)
