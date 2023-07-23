@@ -11,6 +11,10 @@ title: "Photography"
 Milky Way above Sierra Nevada, California\
 August 2022
 
+![DSC00810_1](https://github.com/jiamuH/jiamuh.github.io/assets/52144339/e293bde4-9247-400a-958d-c34e27ee2040)
+Ice Cream Shop, Death Valley, California\
+November 2022
+
 ![IMG_1616](https://user-images.githubusercontent.com/52144339/229338468-f9544cec-c21d-4226-a840-704941eb0a73.jpg)
 Snow on Santa Ynez Peak, Santa Barbara, California\
 March 2023
